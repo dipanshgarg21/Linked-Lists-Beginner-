@@ -13,7 +13,7 @@ A **linked list** is a data structure that consists of a group of nodes which to
 
 ****Advantages of Linked lists:****
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c044d1e2-e27e-40e8-a486-e618a1c1fc25/Untitled.png)
+!(https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c044d1e2-e27e-40e8-a486-e618a1c1fc25/Untitled.png)
 
 Each node contains a piece of data, and a reference to the next node in the sequence. This allows linked lists to be used for efficient insertion and removal of elements, as well as allowing for efficient traversal of the list. Because each node contains a reference to the next node, linked lists can be easily extended or shortened by adding or removing nodes from the list.
 
